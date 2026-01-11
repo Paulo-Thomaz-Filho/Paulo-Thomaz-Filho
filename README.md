@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Paulo Thomaz Filoh, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática para internet.
+Me chamo Paulo Thomaz Filho, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática para internet.
 ---
 
 ### 🤖 Linguagens e Tecnologias
