@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Paulo Thomaz Filho
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Paulo Thomaz Filoh, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática para internet.
 ---
