@@ -85,7 +85,39 @@ Me chamo Paulo Thomaz Filho, tenho 19 anos e sou natural de São Paulo. Concluí
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Visual Studio" 
+    title="Visual Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <br/>
