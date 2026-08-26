@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Paulo Thomaz Filho
+# Paulo Thomaz Filho
 
 **`Desenvolvedor Back-end`** · **`Desenvolvedor Web`**
 
