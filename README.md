@@ -3,7 +3,9 @@
 **`Desenvolvedor Back-end`** · **`Desenvolvedor Web`**
 
 Olá! Me chamo **Paulo Thomaz Filho**, tenho 19 anos e sou de São Paulo. Sou formado pelo **IFSP**, onde concluí o ensino médio integrado ao curso técnico em **Informática para Internet**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.Tenho interesse no desenvolvimento de aplicações **back-end e web**, com foco principalmente no ecossistema **C#/.NET**, além de tecnologias para desenvolvimento de interfaces, bancos de dados e infraestrutura.
-
+---
+### Link para meu portifolio
+- https://paulo-thomaz-filho.github.io/Portifolio/
 ---
 
 ### 🤖 Linguagens
